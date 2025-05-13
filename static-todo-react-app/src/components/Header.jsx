@@ -1,7 +1,7 @@
 export default function Header(){
     return (
         <header>
-             <h1>User Profiles</h1>
+             <h2>User Profiles</h2>
         </header>
     );
 }
